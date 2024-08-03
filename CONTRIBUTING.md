@@ -1,27 +1,27 @@
-# Contribuindo para Gestão de Livros Acadêmicos
-
+# Contribuindo para Gestão de Livros Acadêmicos<br>
+<br>
 Obrigado por considerar contribuir para este projeto! Aqui estão algumas diretrizes para ajudar a fazer sua contribuição:
-
+<br>
 ## Estrutura do Projeto
-
+<br>
 A estrutura do projeto está organizada da seguinte forma:
-
-Biblioteca/
-├── Biblioteca_Academica_Py/
-│ ├── ARQUIVOS/
-│ │ ├── _BIBLIOTECAS/ # Livros referenciados
-│ │ ├── tmp/ # Livros não referenciados e lixo
-│ ├── db/ # Módulo de banco de dados
-│ ├── formatacao/ # Módulo para formatação de referências
-│ ├── interfaces/ # Módulo de configuração e interação com interfaces externas
-│ ├── import_export/ # Módulo para importação e exportação
-│ ├── organizacao/ # Módulo para organização e pesquisa
-│ ├── referencias/ # Módulo para manipulação de referências
-│ ├── utils/ # Módulo para funções utilitárias
-├── docs/ # Documentação do projeto
-
-Para detalhes adicionais sobre a estrutura e arquitetura do projeto, veja o [docs/architecture.md](docs/architecture.md).
-
+<br>
+Biblioteca/<br>
+├── Biblioteca_Academica_Py/<br>
+│ ├── ARQUIVOS/<br>
+│ │ ├── _BIBLIOTECAS/ # Livros referenciados<br>
+│ │ ├── tmp/ # Livros não referenciados e lixo<br>
+│ ├── db/ # Módulo de banco de dados<br>
+│ ├── formatacao/ # Módulo para formatação de referências<br>
+│ ├── interfaces/ # Módulo de configuração e interação com interfaces externas<br>
+│ ├── import_export/ # Módulo para importação e exportação<br>
+│ ├── organizacao/ # Módulo para organização e pesquisa<br>
+│ ├── referencias/ # Módulo para manipulação de referências<br>
+│ ├── utils/ # Módulo para funções utilitárias<br>
+├── docs/ # Documentação do projeto<br>
+<br>
+Para detalhes adicionais sobre a estrutura e arquitetura do projeto, veja o [docs/architecture.md](docs/architecture.md).<br>
+<br>
 ## Como Contribuir
 
 1. Faça um fork do projeto.
