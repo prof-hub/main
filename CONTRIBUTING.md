@@ -1,11 +1,11 @@
 # Contribuindo para Gestão de Livros Acadêmicos<br>
-<br>
+
 Obrigado por considerar contribuir para este projeto! Aqui estão algumas diretrizes para ajudar a fazer sua contribuição:
-<br>
+
 ## Estrutura do Projeto
-<br>
+
 A estrutura do projeto está organizada da seguinte forma:
-<br>
+
 Biblioteca/<br>
 ├── Biblioteca_Academica_Py/<br>
 │ ├── ARQUIVOS/<br>
