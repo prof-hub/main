@@ -2,10 +2,11 @@
 
 ## Estrutura do Projeto
 
-O projeto está organizado da seguinte forma:
-<br>
-Biblioteca/ <br>
-├── Biblioteca_Academica_Py/ <br>
+O projeto está organizado da seguinte forma:<br>
+
+
+Biblioteca/<br>
+├── Biblioteca_Academica_Py/<br>
 │   ├── ARQUIVOS/<br>
 │   │   ├── _BIBLIOTECAS/         # Livros referenciados<br>
 │   │   ├── tmp/                  # Livros não referenciados e lixo<br>
