@@ -3,10 +3,10 @@
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
-
+<br>
 Biblioteca/ <br>
 ├── Biblioteca_Academica_Py/ <br>
-│   ├── ARQUIVOS/
+│   ├── ARQUIVOS/<br>
 │   │   ├── _BIBLIOTECAS/         # Livros referenciados<br>
 │   │   ├── tmp/                  # Livros não referenciados e lixo<br>
 │   ├── db/                       # Módulo de banco de dados<br>
@@ -17,7 +17,7 @@ Biblioteca/ <br>
 │   ├── referencias/              # Módulo para manipulação de referências<br>
 │   ├── utils/                    # Módulo para funções utilitárias<br>
 ├── docs/                         # Documentação do projeto<br>
-
+<br>
 
 
 ### Descrição dos Módulos
