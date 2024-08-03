@@ -6,17 +6,18 @@ O projeto está organizado da seguinte forma:
 
 Biblioteca/
 ├── Biblioteca_Academica_Py/
-│ ├── ARQUIVOS/
-│ │ ├── _BIBLIOTECAS/ # Livros referenciados
-│ │ ├── tmp/ # Livros não referenciados e lixo
-│ ├── db/ # Módulo de banco de dados
-│ ├── formatacao/ # Módulo para formatação de referências
-│ ├── interfaces/ # Módulo de configuração e interação com interfaces externas
-│ ├── import_export/ # Módulo para importação e exportação
-│ ├── organizacao/ # Módulo para organização e pesquisa
-│ ├── referencias/ # Módulo para manipulação de referências
-│ ├── utils/ # Módulo para funções utilitárias
-├── docs/ # Documentação do projeto
+│   ├── ARQUIVOS/
+│   │   ├── _BIBLIOTECAS/         # Livros referenciados
+│   │   ├── tmp/                  # Livros não referenciados e lixo
+│   ├── db/                       # Módulo de banco de dados
+│   ├── formatacao/               # Módulo para formatação de referências
+│   ├── interfaces/               # Módulo de configuração e interação com interfaces externas
+│   ├── import_export/            # Módulo para importação e exportação
+│   ├── organizacao/              # Módulo para organização e pesquisa
+│   ├── referencias/              # Módulo para manipulação de referências
+│   ├── utils/                    # Módulo para funções utilitárias
+├── docs/                         # Documentação do projeto
+
 
 
 ### Descrição dos Módulos
