@@ -4,7 +4,7 @@
 
 O projeto está organizado da seguinte forma:
 
-Biblioteca/
+Biblioteca/ <br>
 ├── Biblioteca_Academica_Py/
 │   ├── ARQUIVOS/
 │   │   ├── _BIBLIOTECAS/         # Livros referenciados
