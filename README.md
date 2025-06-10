@@ -20,3 +20,12 @@ Bem-vindo ao repositório do meu software de gestão de livros para acadêmicos.
 Sinta-se à vontade para clonar o repositório, criar issues ou enviar pull requests. Toda contribuição é bem-vinda!
 
 Para mais detalhes sobre a estrutura do projeto, veja o [CONTRIBUTING.md](CONTRIBUTING.md) e o [docs/architecture.md](docs/architecture.md).
+
+## Executando os Testes
+
+Para rodar os testes, instale as dependências de desenvolvimento e execute o pytest:
+
+```bash
+pip install -r requirements-dev.txt
+pytest
+```
